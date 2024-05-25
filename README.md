@@ -4,6 +4,7 @@ AtliQ Hardware, a rapidly expanding company, has embraced PowerBi as a powerful 
 
 ## Home Page: 
 -**Home View:** Provides essential information about the report which contains  Icons of all the view like info,Finance ,Sales, Marketing, Supply Chain, Executive
+![Screenshot 2024-05-25 181834](https://github.com/sandhyahm1804/Business-Insights-360/assets/153446889/f347b563-395f-40f9-8ad1-63a5b35261d6)
 ## Finance View:
 Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 Explore P & L Statements, Net Sales Performance Trend, Top Product and Customers based on Net Sales.
