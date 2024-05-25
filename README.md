@@ -1,4 +1,6 @@
 # Business-Insights-360
+Dashboard link-(https://app.powerbi.com/groups/me/reports/43ec51ac-2492-45da-b692-249398f2ef9a/ReportSection165dd28dae700ad023cb?experience=power-bi)
+
 ## Project Details:
 AtliQ Hardware, a rapidly expanding company, has embraced PowerBi as a powerful tool for data analytics, positioning itself for a competitive edge and well-informed decision-making. This ambitious project aims to illuminate various aspects, including finance, sales, marketing, and the supply chain, Executive.
 
